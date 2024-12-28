@@ -1,3 +1,3 @@
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/creopse/.github/assets/67134244/49090d33-eb77-43b6-9099-70675b2f29b3" width="300" alt="creopse"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/a732ec54-566e-43d0-89e3-4a168fa526de" width="400" alt="creopse"></a></p>
 
 ## About Creopse
