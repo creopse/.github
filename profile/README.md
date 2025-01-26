@@ -2,7 +2,7 @@
 
 ## About Creopse
 
-**Creopse** is a cutting-edge hybrid Content Management System (CMS) designed to simplify web development and content management.
+**Creopse** is a hybrid Content Management System (CMS) designed to simplify web development and content management.
 
 ---
 
