@@ -22,5 +22,3 @@
 2. Add Creopse to your project using Composer.  
 3. Publish Creopse files and set up your database.  
 4. Access the admin panel at `/creopse/login` and start managing content effortlessly!  
-
----
