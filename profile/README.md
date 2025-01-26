@@ -2,8 +2,7 @@
 
 ## About Creopse
 
-**Creopse** is a cutting-edge hybrid Content Management System (CMS) designed to simplify web development and content management. Built on the robust foundation of **Laravel 10**, Creopse combines flexibility, scalability, and ease of use to empower developers and businesses alike.
-
+**Creopse** is a cutting-edge hybrid Content Management System (CMS) designed to simplify web development and content management.
 ---
 
 ### 🌟 Key Features  
