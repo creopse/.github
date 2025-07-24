@@ -18,7 +18,7 @@
 
 ### 🔗 Quick Start  
 
-1. Install Laravel 10 or 11.  
+1. Install Laravel 10, 11 or 12.  
 2. Add Creopse to your project using Composer.  
 3. Publish Creopse files and set up your database.  
 4. Access the admin panel at `/creopse/login` and start managing content effortlessly!  
