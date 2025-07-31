@@ -9,7 +9,7 @@
 ### 🌟 Key Features  
 
 - **Hybrid CMS**: Enjoy the best of both traditional and headless CMS capabilities.  
-- **Developer-Centric**: Easy installation, configuration, and integration into existing Laravel projects.  
+- **Developer-Centric**: Easy installation, configuration, and integration into new Laravel projects.  
 - **Scalable and Flexible**: Tailored for small projects to large-scale enterprise solutions.  
 - **Customizable**: Easily adapt and extend Creopse to meet specific project needs.  
 - **Admin Panel**: A pre-built, user-friendly admin interface to manage your content effortlessly.  
